@@ -1,12 +1,12 @@
-
 Hi! I'm glad that you are here :) 
-This repository was created to show you a real challenge question, answered with python!. 
+
+This repository was created to show how we can resolve some amazing questions using python!. 
 
 Inside you'll find two codes: 
-     Pybank: To help management check performance of a branch trough the time 
+     Pybank: To help management check performance of a branch through the time 
      Pypoll: How to do the maths behind an election process! 
 
-Please be aware that the information does not necesarily represent the reality.  
+Please be aware that the information does not necessarily represent reality.  
 
 If you have any comment, don't hesitate in contacting me. 
 
