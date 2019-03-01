@@ -1,6 +1,6 @@
 Hi! I'm glad that you are here :) 
 
-This repository was created to show how we can resolve some amazing questions using python!. 
+This proyect was created to show how we can resolve some amazing questions using python!. 
 
 Inside you'll find two codes: 
      Pybank: To help management check performance of a branch through the time 
