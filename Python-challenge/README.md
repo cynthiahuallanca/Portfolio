@@ -3,8 +3,8 @@ Hi! I'm glad that you are here :)
 This proyect was created to show how we can resolve some amazing questions using python!. 
 
 Inside you'll find two codes: 
-     Pybank: To help management check performance of a branch through the time 
-     Pypoll: How to do the maths behind an election process! 
+Pybank: To help management check performance of a branch through the time 
+Pypoll: How to do the maths behind an election process! 
 
 Please be aware that the information does not necessarily represent reality.  
 
