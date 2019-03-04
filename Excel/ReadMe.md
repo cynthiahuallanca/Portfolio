@@ -22,6 +22,9 @@ The database has four thousand past projects that after some analizis we can unc
 3. What are some other possible tables/graphs that we could create?
 
 
+
+
+
 If you hav any comment, don't hesitate in contacting me. 
 
 Enjoy the ride!
