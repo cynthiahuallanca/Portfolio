@@ -9,10 +9,10 @@ Thank you and enjoy the ride!
 ~~CH
 
 
-# Background
+### Background
 School district. To help the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
-### District Summary
+#### District Summary
 Analysis of district-wide standardized test results
 * High level snapshot of the district's key metrics, including:
   * Total Schools
