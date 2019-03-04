@@ -8,10 +8,10 @@ Since getting funded on Kickstarter requires meeting or exceeding the project's 
 looking through past projects in an attempt to discover some trick to finding success. 
 
 
-#Summary 
+##Summary 
 The database has four thousand past projects that after some analizis we can uncover hidden trends.
 
-# Some key methods used here are: 
+**Some key methods used here are:** 
 * Conditional formatting for campaign status
 * Pivot table to analyze initial worksheet 
 * Pivot chart line graph
