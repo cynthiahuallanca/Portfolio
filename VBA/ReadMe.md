@@ -29,5 +29,8 @@ To analyze real stock market data.
 
 If you have any comments, don't hesitate in contacting me. 
 
-Enjoy the ride! 
-~~CH
+
+
+
+**Enjoy the ride! 
+~~CH**
