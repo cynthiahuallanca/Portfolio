@@ -18,7 +18,7 @@ The following dataset contains information about every active driver and histori
 
 
 
-If you have any comment, don't hesitate in contacting me. 
+*If you have any comment, don't hesitate in contacting me.*
 
-Enjoy the ride! 
-**~~CH
+*Enjoy the ride!* 
+**~~CH**
