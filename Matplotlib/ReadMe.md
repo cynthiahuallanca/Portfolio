@@ -24,7 +24,7 @@ Analysis of district-wide standardized test results
   * % Passing Reading
   * Overall Passing Rate
 
-### School Summary
+#### School Summary
 * Overview table that summarizes key metrics about each school, including:
   * School Name
   * School Type
@@ -37,7 +37,7 @@ Analysis of district-wide standardized test results
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
 
-### Top Performing Schools (By Passing Rate)
+#### Top Performing Schools (By Passing Rate)
 * Table that highlights the top 5 performing schools based on Overall Passing Rate. Include:
   * School Name
   * School Type
@@ -50,16 +50,16 @@ Analysis of district-wide standardized test results
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
 
-### Bottom Performing Schools (By Passing Rate)
+#### Bottom Performing Schools (By Passing Rate)
 * Table that highlights the bottom 5 performing schools based on Overall Passing Rate. Includes all of the same metrics as above.
 
-### Math Scores by Grade
+#### Math Scores by Grade
 * Table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-### Reading Scores by Grade
+#### Reading Scores by Grade
 * Table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-### Scores by School Spending
+#### Scores by School Spending
 * Table that breaks down school performances based on average Spending Ranges (Per Student). The table includes each of the following:
   * Average Math Score
   * Average Reading Score
@@ -67,12 +67,12 @@ Analysis of district-wide standardized test results
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
 
-### Scores by School Size
+#### Scores by School Size
 * Same as above breakdown, but this time schools group are based on a reasonable approximation of school size (Small, Medium, Large).
 
-### Scores by School Type
+#### Scores by School Type
 * Repeats the above breakdown, but this time group schools based on school type (Charter vs. District).
 
-## Final consideration:
+#### Final consideration:
 * Written description of some observable trends based on the data.
 
