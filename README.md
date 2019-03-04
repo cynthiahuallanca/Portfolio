@@ -1,4 +1,4 @@
-## Welcome! ¡Bienvenido! Aloha! Iorana! Benvenuto! 奉迎! Benvingut! Welkom! Bienvenue! Willkommen! Bem-vindo! Καλώς ορίσατε! Hua
+## Welcome! ¡Bienvenido! Aloha! Iorana! Benvenuto! 奉迎! Benvingut! Welkom! 
 
 I'm glad that you are here!! 
 
