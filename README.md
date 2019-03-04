@@ -6,7 +6,7 @@ Welcome to my Portfolio, here you'll find brief examples of my work with the ide
 
 Enjoy the ride! 
 
-*~~CH
+~~CH
 
 
 ----------
@@ -16,4 +16,5 @@ Me alegro que estes aqui!!
 Bienvenido a mi Porfolio, aquí encontrarás breves ejemplos de mi trabajo con la idea de compartir cómo millones de datos se pueden convertir en un breve resumen para que gerentes, inversionistas o quien tome decisiones pueda analizar el mercado para el lanzamiento de un nuevo producto/servicio, tendencias de clientes actuales, ver nuevas correlaciones o incluso a veces predicir el futuro.
 
 Espero que disfrutes el viaje! 
-*~~CH
+
+~~CH
