@@ -9,7 +9,7 @@ Enjoy the ride!
 *~~CH
 
 
-##Bienvenido!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Me alegro que estes aqui!! 
 
