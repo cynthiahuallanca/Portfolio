@@ -5,7 +5,7 @@ There are some notable players in the service car industry like Uber and Lyft...
 The following dataset contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.. (remember that all this information was invented!) 
 
 ### Math and Methods 
-* Bubble Plot (thanks again (Matplotlib library)[https://matplotlib.org/])
+* Bubble Plot (thanks again [Matplotlib library](https://matplotlib.org/))
   * Average Fare ($) Per City
   * Total Number of Rides Per City
   * Total Number of Drivers Per City
