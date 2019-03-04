@@ -13,7 +13,7 @@ But, if pressed, how would you **prove** it?
 
 ### Summary  
 In the code inside, you'll find a sample of more than 500 cities taken randomly, with a range of latitude between (-90, 90) 
-and longitude between (-180, 180). Using **Open Weather Map API** you'll see how Latitude correlates with temperature, humidity,
+and longitude between (-180, 180). Using [Open Weather Map API](https://openweathermap.org/api) you'll see how Latitude correlates with temperature, humidity,
 cloudiness and more. Also -thanks to **Matplot Lib**- you'll be able to see this in different scarett plots. 
 
 
