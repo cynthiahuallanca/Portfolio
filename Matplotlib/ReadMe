@@ -1,12 +1,12 @@
-Hi! 
-Welcome back!! (If it's your first time, nice to meet you, I'm CH). 
+## Summary 
 
 This time you'll find an amazing analysis of School District. Please see below the index of the details. 
 The information contained in it was created with the purpose of showing different scopes for anaysis and doesn't represent reality. 
 
 If you have any comment, don't hesitate in contacting me.
 
-Thank you and enjoy the ride! CH*~~
+Thank you and enjoy the ride! 
+~~CH
 
 
 # Background
@@ -51,7 +51,7 @@ Analysis of district-wide standardized test results
   * Overall Passing Rate (Average of the above two)
 
 ### Bottom Performing Schools (By Passing Rate)
-* Table that highlights the bottom 5 performing schools based on Overall Passing Rate. Include all of the same metrics as above.
+* Table that highlights the bottom 5 performing schools based on Overall Passing Rate. Includes all of the same metrics as above.
 
 ### Math Scores by Grade
 * Table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
@@ -71,7 +71,7 @@ Analysis of district-wide standardized test results
 * Same as above breakdown, but this time schools group are based on a reasonable approximation of school size (Small, Medium, Large).
 
 ### Scores by School Type
-* Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
+* Repeats the above breakdown, but this time group schools based on school type (Charter vs. District).
 
 ## Final consideration:
 * Written description of some observable trends based on the data.
