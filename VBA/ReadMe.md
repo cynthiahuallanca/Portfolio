@@ -1,5 +1,5 @@
 # Summary 
-Stock market data analyzed with VBA codes; please kindly note that the summary of stocks was made in bulk process -columns from I trough L-. 
+Stock market data analyzed with VBA codes; please kindly note that the summary of stocks was made in bulk process  -columns from I trough L-. 
 
 If you have any comments, don't hesitate in contacting me. 
 
