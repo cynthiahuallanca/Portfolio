@@ -1,5 +1,11 @@
 # Summary 
-Stock market data analized with VBA codes; please kindly note that the summary of stocks was made in bulk process.  
+Stock market data analyzed with VBA codes; please kindly note that the summary of stocks was made in bulk process -columns from I trough L-. 
+
+If you have any comments, don't hesitate in contacting me. 
+
+
+**Enjoy the ride! 
+~~CH**
 
 ## Background
 
@@ -28,10 +34,4 @@ To analyze real stock market data.
 
 
 
-If you have any comments, don't hesitate in contacting me. 
 
-
-
-
-**Enjoy the ride! 
-~~CH**
