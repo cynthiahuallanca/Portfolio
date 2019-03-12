@@ -25,7 +25,7 @@ The database has four thousand past projects that after some analizis we can unc
 
 
 
-If you hav any comment, don't hesitate in contacting me. 
+If you have any comment, don't hesitate in contacting me. 
 
 Enjoy the ride!
 ~~CH 
