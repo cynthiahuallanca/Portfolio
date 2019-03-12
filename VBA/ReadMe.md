@@ -1,4 +1,5 @@
-
+# Summary 
+Stock market data analized with VBA codes; please kindly note that the summary of stocks was made in bulk process.  
 
 ## Background
 
