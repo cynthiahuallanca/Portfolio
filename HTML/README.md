@@ -1,4 +1,4 @@
-## <h1> Welcome to HTML </h1>
+## *<h1>* Welcome to HTML *</h1>* ##
 
 
 
@@ -6,7 +6,7 @@
 
 Go to [Weather Data Website](https://cynthiahuallanca.github.io/weatherdata.io/) 
 
-Go to (my Bio)[https://cynthiahuallanca.github.io/]
+Go to [my Bio](https://cynthiahuallanca.github.io/)
 
 </p>
 
