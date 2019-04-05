@@ -1,7 +1,7 @@
 ## *_<h1_* Welcome to HTML */h1>* ##
 
 
-<body
+_<body
 <p Let's have some fun! 
 
 Go to [Weather Data Website](https://cynthiahuallanca.github.io/weatherdata.io/) 
@@ -13,5 +13,5 @@ Go to [my Bio](https://cynthiahuallanca.github.io/)
 <p
 ~~CH
 /p>
-</body
+/body>
 
