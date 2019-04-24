@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Mission to Mars</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type= "text/css" href="{{ url_for('static',filename='css/style.css') }}">
+  </head>
+
+<body> 
+   
+  <!-- New Row, Update Button-->
+  <div class="container-fluid">
+      <div class="jumbotron text-center">
+          <h2 id="jumbotron_title">You're about to see some amazing things going on here ...</h2>
+          <p><a class="btn btn-primary btn-lg" href="/scrape" role="button">I want to find out!</a></p>
+        </div>
+    
+      <br><br>
+
+  <!--News Title and paragraph-->
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-8">
+        <h4 class="section"> News </h4>
+        <h3>{{project_mars.news_title}}</h3>
+        <br>
+        <p class="paragraph"> {{project_mars.news_paragraph}}</p>
+        <br><br>
+      </div>
+      <div class="col-md-4">
+      </div>
+    </div>
+  </div>
+  
+  <!--Weather and facts-->
+  <div class="container-fluid">     
+    <div class='row'>
+      <div class="col-md-12">
+        <br><br>
+        <img Id="featured_img" src= "{{ project_mars.featured_image_url }}" alt = "Wait for a cool Space Image">
+      </div>
+    </div>
+    <br><br><br><br>
+    <div class="row" id="f_img">
+      <div class="col-md-6">
+        <h4 class="section"> Traveling to Mars? Check the Weather and more!</h4>
+        <h3>Current Weather</h3>
+        <h5 class="paragraph"> {{ project_mars.mars_weather }} </h5> 
+      </div>
+      <div class="col-md-6">
+        <br>
+        <h3>Facts</h3>
+        <h5 class="paragraph">{{project_mars.mars_facts_table | safe}}</h5>
+      </div>
+</div>
+    <br><br>
+
+  <!--Hemisphere URLs-->
+  <div class="container-fluid">
+      <br><br><br>
+      <h4 class="section"> Latest Hemisphere photos </h4>
+      <p class="paragraph"> To see the fullsize image, click on it!</p>
+      <div class="row"></div>
+      {% for item in project_mars.hemisphere_image_urls %}
+      <div class="col-md-6">
+          <br><br><br>
+          <h3>{{ item.title }}</h3> 
+          <a href="{{ item.img_url }}" target="{{ item.img_url }}"> <img class="h_img" src="{{ item.img_url }}" />
+          </a>
+          </div>
+      {% endfor %}
+      </div>
+    </div>  
+</body>
+
+</html>
+
