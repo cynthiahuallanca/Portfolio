@@ -1,0 +1,6 @@
+uploaded efficiency table, just run the Efficiency_calc notebook in the Gan branch then switch back to your branch and connect to the table. The table is called "city_efficiency".
+
+
+
+1. Run in Jupyter Notebook Efficiency_calc.ipynb
+2. Open app.py to see the website

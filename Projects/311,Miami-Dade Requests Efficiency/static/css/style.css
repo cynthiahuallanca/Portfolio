@@ -1,0 +1,232 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.jumbotron {
+  background: url('../css/images/miami.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 314px;
+  background-blend-mode: luminosity;
+  } 
+
+
+
+
+h2 {
+  align-content: center;
+  color: #027abb;
+  font-family: "Roboto", sans-serif;
+  text-align: center
+}
+  
+/* For Animation in title 
+.animatedText { 
+  animation: fadeAndScale .3s ease-in;
+  transform-origin: center bottom;
+}
+
+@keyframes fadeAndScale {
+  from {
+    opacity: 0;
+    transform: scale3d(.75, .75, 1)
+  }
+  to {
+    opacity: 1;
+    transform: scale3d(1, 1, 1);
+
+  }
+}
+End: For Animation in title */
+
+p {
+  font-family: "Roboto", sans-serif;
+}
+
+#landpage-image {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+.text-center {
+  text-align: center;
+}
+
+.text-center-bold {
+  text-align: center;
+  font-weight: bold;
+}
+
+
+.mini_navbar {
+  text-align: center;
+  background-color: #acc1cc;
+}
+.mini_navbar2 {
+  text-align: center;
+}
+
+/*button */
+#myBtn:hover {
+  background-color: #555;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: rgb(93, 199, 93);
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+.about {
+  background-color: black;
+  color: whitesmoke;
+}
+
+#background-black {
+  background-color: black;
+}
+/* landpage */
+.leaflet-popup-content {
+  text-align: center;
+}
+
+/* CSS from the Leaflet-Choropleth documentation */
+.legend {
+  padding: 6px 8px;
+  font: 12px Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: #555;
+  background: #fff;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.legend ul {
+  padding: 0;
+  margin: 0;
+  clear: both;
+  list-style-type: none;
+}
+
+.legend li {
+  display: inline-block;
+  width: 30px;
+  height: 15px;
+}
+
+.legend .min {
+  float: left;
+  padding-bottom: 15px;
+}
+
+.legend .max {
+  float: right;
+}
+.bar { fill: red; }
+
+.info {
+  padding: 6px 8px;
+  font: 14px/16px Arial, Helvetica, sans-serif;
+  background: white;
+  background: rgba(255,255,255,0.8);
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 5px;
+}
+.info h4 {
+  margin: 0 0 5px;
+  color: #777;
+}
+
+.chart-container {
+  height: 245px;
+  width: 245px;
+}
+
+#info-pane {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 400;
+  padding: 1em;
+  background: white;
+}
+
+.info { padding: 6px 8px; font: 14px/16px Arial, Helvetica, sans-serif; background: white; background: rgba(255,255,255,0.8); box-shadow: 0 0 15px rgba(0,0,0,0.2); border-radius: 5px; } .info h4 { margin: 0 0 5px; color: #777; }
+.legend {
+  text-align: left;
+  font: 10px/12px;
+  line-height: 15px;
+  color: #555;
+}
+.legend i {
+  width: 15px;
+  height: 15px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.7;
+}
+
+footer {
+  margin: auto;
+  text-align:center;
+  width:100%;
+  height:150px;
+  background-color:#000;
+  border:#000 inset medium;
+  color: white;
+}
+
+#about{
+  background:url('https://thumbs.gfycat.com/MellowSickAmericancurl-size_restricted.gif');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  
+}
+
+/* .about_us_back{
+  background: url('../css/images/miami.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 314px;
+  background-blend-mode: luminosity;
+  
+} */
+
+.links_back {
+  background-color: black;
+  color: white
+}
+
+#view2_back {
+  background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Seal_of_Miami%2C_Florida.svg/1024px-Seal_of_Miami%2C_Florida.svg.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 10%;
+}
+/* 
+.mini_nav {
+  background-color: #027abb;
+} */

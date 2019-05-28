@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<head>
+
+    <!-- for $ in line 598 of logic2-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <!-- fir d3 library-->
+    <!-- Our CSS -->
+     <link rel="stylesheet" type="text/css" href="../static/css/style.css">  
+     <!-- d3 JS -->
+      <script src="//d3js.org/d3.v3.min.js"></script>
+
+    <style type="text/css">
+      #timeline {
+        width: 940px;
+        margin:20px 50px;
+      }
+
+      .line {
+        fill: none;
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      svg {
+        font-family: "Helvetica Neue", Helvetica;
+      }
+    </style>
+    <title>Average closing days by Department</title>
+</head>
+
+<body class="about_us_back">
+
+    <div class="row">
+        <div class="col-md-12" > 
+         <p class="mini_navbar"> <a href="/">Home</a> | <a href="plot3">View 2</a> </p>
+        
+       </div>
+     </div>
+
+  <div class="container-fluid">
+    <br>
+    <div class="row">
+    <div class="col-md-12">
+      <h2 class="animatedText"> Miami-Dade 311.. Department Requests</h2>
+      <br>
+      <p class="text-center"> The following plot compares 4 different deaprtments of Miami Requests:</p>
+      <p class="text-center-bold"> Solid Waste Management, Citations and Tags, Enforcement, Public Works Roads and Bridges </p>
+      <p class="text-center"> With Average of total completed days by department, dates ranging from 2013 until 2018 (all the years availables in <a href="https://gis-mdc.opendata.arcgis.com/datasets/311-service-requests-miami-dade-county-2018">Miami Dade Requests</a>)   </p>
+    </div>      
+  </div>
+
+  <br><br><br>
+
+  <div class="container-fluid">
+    
+    <div class="col-md-12">
+      <!-- Crazy Plot -->
+      <div id="body-map"></div>    
+      <!-- <script type="text/javascript" src="../static/js/config.js"></script> -->
+      <!-- <script type="text/javascript" src="../static/js/logic.js"></script> -->
+      <script src="{{ url_for('static', filename='js/logic2.js') }}"></script>
+      <script>var anything = "{{ url_for('static', filename='js/logic.js') }}";</script>
+    </div>  
+  </div>
+
+</body>
