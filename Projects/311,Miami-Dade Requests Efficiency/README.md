@@ -15,7 +15,7 @@ password = "YOUR PASSWORD HERE"
 ```
 * Remember to add both configs to ignore 
 
-3. Run in Jupyter Notebook Efficiency_calc.ipynb and ETL 
+3. Run in Jupyter Notebook "Efficiency_calc.ipynb", "ETL.ipynb", "efficiency to mean.ipynb" and "Census Income and Poverty to SQL"
 
 4. Run
 
