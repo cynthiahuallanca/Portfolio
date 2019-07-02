@@ -1,22 +1,10 @@
 
-### Heroes Of Pymoli Data Analysis
+### Game Company Analysis
 * Of the 1163 active players, the vast majority are male (84%). There also exists, a smaller, but notable proportion of female players (14%).
 
 * Our peak age demographic falls between 20-24 (44.8%) with secondary groups falling between 15-19 (18.60%) and 25-29 (13.4%).  
 -----
 
-
-```python
-# Dependencies and Setup
-import pandas as pd
-import numpy as np
-
-# File to Load (Remember to Change These)
-file_to_load = "Resources/purchase_data.csv"
-
-# Read Purchasing File and store into Pandas data frame
-purchase_data = pd.read_csv(file_to_load)
-```
 
 ## Player Count
 
